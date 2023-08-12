@@ -54,7 +54,9 @@ Before training the Awesome Model, the dataset underwent a series of preprocessi
 
 3. Categorical Encoding: Categorical features were one-hot encoded to convert them into a format suitable for machine learning algorithms.
 
-4. Train-Test Split: The dataset was split into a training set (80%) and a testing set (20%) to evaluate the model's performance on unseen data.
+4. Balancing the DataSet: The Imbalanced Data was balanced using Random UnderSampling of the minority samples so as to get the accurate model
 
+5. Train-Test Split: The dataset was split into a training set (80%) and a testing set (20%) to evaluate the model's performance on unseen data.
 
-
+# Data Visualisation
+![Correlation](correlation.png)
