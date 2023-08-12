@@ -1,4 +1,3 @@
-# Credit_card_fraud_detection
 # Credit Card Fraud detector Model Repository
 
 Welcome to the Credit Card Fraud Detector Model Repository! This repository contains a  machine learning model trained on an real-time dataset. In this README, you'll find everything you need to know about the model, the dataset, and how to use them effectively.
