@@ -64,3 +64,8 @@ Before training the Awesome Model, the dataset underwent a series of preprocessi
 *Figure 1: Correlation Heatmap*
 
 The heatmap provides insights into how different features are correlated with each other, which can be helpful for understanding potential patterns and relationships in the data.
+
+![Balanced Target Variable](images/balanced_target_variable.png)
+*Figure 5: Balanced Target Variable Bar Plot*
+
+The bar plot provides an overview of the distribution of the target variable, helping you understand the balance of classes and potential class imbalances in the dataset.
