@@ -61,4 +61,6 @@ Before training the Awesome Model, the dataset underwent a series of preprocessi
 # Data Visualisation
 ![Correlation](correlation.png)
 
+*Figure 1: Correlation Heatmap*
 
+The heatmap provides insights into how different features are correlated with each other, which can be helpful for understanding potential patterns and relationships in the data.
