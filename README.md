@@ -30,8 +30,6 @@ This Model is designed as a Random Forest Regressor, a powerful ensemble learnin
 
 ## Dataset
 
-Explain the dataset used to train and evaluate the model. Provide details about the data sources, size, format, and any preprocessing steps applied. If possible, showcase some sample data points or visualizations.
-
 The dataset used to train and evaluate this  Model is a curated collection of [Credit_Card_transactions], designed to tackle the [Credit_Card_fraud_detection] task. This section provides an overview of the dataset, its sources, preprocessing steps, and sample data points.
 
 # Data Sources
