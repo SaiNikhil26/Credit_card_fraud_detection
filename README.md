@@ -7,11 +7,6 @@ Welcome to the Credit Card Fraud Detector Model Repository! This repository cont
 - [Introduction](#introduction)
 - [Model Overview](#model-overview)
 - [Dataset](#dataset)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
